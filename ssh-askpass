@@ -5,7 +5,7 @@
 # Licensed under GPL 3.0
 
 # A ssh-askpass command for Mac OS X
-# Based from author: Joseph Mocker, Sun Microsystems  
+# Based from author: Joseph Mocker, Sun Microsystems
 # http://blogs.oracle.com/mock/entry/and_now_chicken_of_the
 
 # To use this script:
